@@ -62,7 +62,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
 
 <p>
 
-I am a Computer Science student passionate about software development, web development, and artificial intelligence. I enjoy creating innovative systems that solve real-world problems while continuously improving my programming skills.
+I am a Computer Science student, I enjoy creating innovative systems that solve real-world problems while continuously improving my programming skills.
 
 </p>
 
