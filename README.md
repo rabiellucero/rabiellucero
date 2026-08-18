@@ -38,7 +38,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
 
 <h1>Hello, I'm</h1>
 
-<h2>Rabiel Lucero</h2>
+<h2>Rabiel G. Lucero</h2>
 
 <p>Computer Science Student</p>
 
