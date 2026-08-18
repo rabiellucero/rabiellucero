@@ -42,7 +42,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
 
 <p>Computer Science Student</p>
 
-<p>Aspiring Software Developer | Web Developer</p>
+<p>Software Developer | Web Developer</p>
 
 <a href="#projects" class="btn">View Projects</a>
 
