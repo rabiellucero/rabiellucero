@@ -206,7 +206,7 @@ I am a Computer Science student, I enjoy creating innovative systems that solve 
 
 <footer>
 
-<p>© 2026 Rabiel G. Lucero | GitHub Portfolio</p>
+<p>© 2026 Rabiel Lucero | GitHub Portfolio</p>
 
 </footer>
 
